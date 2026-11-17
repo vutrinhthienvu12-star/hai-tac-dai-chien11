@@ -1,0 +1,25 @@
+{
+  "campaign_key": "events-20261029",
+  "starts_at": "2026-10-29T16:30:00+07:00",
+  "giftcode_days": 30,
+  "wanted_days": 5,
+  "giftcode": {
+    "id": 1024,
+    "code": "DACUONGHOA",
+    "name": "Giftcode",
+    "icon": "Event/event_giftcode",
+    "image": "Event/banner_giftcode",
+    "reward": [3, 1, 2, 1000000000]
+  },
+  "wanted": {
+    "id": 1012,
+    "name": "Truy nã",
+    "icon": "Event/icon_12",
+    "image": "Event/bgr_market_event",
+    "offers": [
+      {"id": 1, "hero_id": 115, "name": "Gladius", "limit": 1},
+      {"id": 2, "hero_id": 143, "name": "Akainu", "limit": 1},
+      {"id": 3, "hero_id": 77, "name": "Koby", "limit": 1}
+    ]
+  }
+}
